@@ -1,0 +1,14 @@
+{
+    "name": "mrmorden74/fatfreeboottest",
+    "description": "Test Project for Fatfree and Bootstrap",
+    "authors": [
+        {
+            "name": "mrmorden74",
+            "email": "a.hitzinger@gmail.com"
+        }
+    ],
+    "require": {
+        "bcosca/fatfree": "3.5.0",
+        "twbs/bootstrap": "v4.0.0-alpha.5"
+    }
+}
